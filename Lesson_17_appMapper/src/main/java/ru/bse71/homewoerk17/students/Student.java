@@ -20,7 +20,9 @@ import java.util.Objects;
             this.name = name;
             this.group = group;
         }
+        public Student() {
 
+        }
         public int getId() {
             return id;
         }
